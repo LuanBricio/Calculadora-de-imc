@@ -1,0 +1,39 @@
+h1{
+    color: white;
+}
+h2{
+    color: rgb(215, 212, 212);
+}
+.area_input{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+input{
+    margin-left: 10px;
+    height: 1.5em;
+}
+.area_geral{
+    display: inline-flex;
+    flex-direction: column;
+    background-color: rgb(20, 20, 20);
+    align-items: center;
+    padding: 1em;
+    border-radius: 5%;
+
+}
+.area{
+    display: flex;
+    justify-content: center;
+}
+button{
+    width: 100%;
+    height: 3em;
+    background-color: rgba(255, 183, 0, 0.847);
+    color: white;
+    border: none;
+}
+.resultado{
+    color: white;
+}
